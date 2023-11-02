@@ -1,0 +1,32 @@
+#home{
+height:800px ;
+
+}
+.heading{
+    font-size: 1.7rem;
+}
+#pic img{
+width: 300px;
+height: 175px;
+
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.input{
+width:80% ;
+
+}
+#msg{
+width: 70%;
+
+}
+html{
+scroll-behavior: smooth;
+
+}
+#send{
+width: 20%
+;
+
+}
